@@ -18,6 +18,7 @@ This repository contains my daily coding practice solutions.
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
@@ -27,4 +28,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
