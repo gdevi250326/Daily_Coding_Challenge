@@ -25,6 +25,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -54,4 +55,16 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
