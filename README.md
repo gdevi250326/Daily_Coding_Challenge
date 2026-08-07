@@ -61,6 +61,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+| [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +86,12 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
