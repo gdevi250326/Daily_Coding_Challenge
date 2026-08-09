@@ -15,6 +15,7 @@ This repository contains my daily coding practice solutions.
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -38,6 +39,7 @@ This repository contains my daily coding practice solutions.
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@ This repository contains my daily coding practice solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
@@ -115,4 +118,12 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
