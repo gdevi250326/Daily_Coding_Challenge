@@ -11,6 +11,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
@@ -23,6 +24,7 @@ This repository contains my daily coding practice solutions.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,4 +136,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
