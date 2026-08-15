@@ -10,6 +10,7 @@ This repository contains my daily coding practice solutions.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
@@ -85,6 +86,7 @@ This repository contains my daily coding practice solutions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 ## Enumeration
 |  |
@@ -97,6 +99,7 @@ This repository contains my daily coding practice solutions.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
