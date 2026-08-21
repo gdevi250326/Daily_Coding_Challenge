@@ -16,6 +16,7 @@ This repository contains my daily coding practice solutions.
 | [0066-plus-one](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
+| [0228-summary-ranges](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
