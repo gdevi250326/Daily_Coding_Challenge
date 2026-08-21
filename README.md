@@ -83,6 +83,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@ This repository contains my daily coding practice solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 ## Counting
 |  |
