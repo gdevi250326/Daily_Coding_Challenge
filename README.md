@@ -33,6 +33,7 @@ This repository contains my daily coding practice solutions.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 ## Math
@@ -117,6 +118,7 @@ This repository contains my daily coding practice solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 ## Counting
@@ -126,6 +128,7 @@ This repository contains my daily coding practice solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
@@ -155,4 +158,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0053-maximum-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
