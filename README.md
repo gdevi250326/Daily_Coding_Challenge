@@ -44,6 +44,7 @@ This repository contains my daily coding practice solutions.
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gdevi250326/LeedCode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -56,6 +57,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
+| [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
