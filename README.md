@@ -104,6 +104,7 @@ This repository contains my daily coding practice solutions.
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
