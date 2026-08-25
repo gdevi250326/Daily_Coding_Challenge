@@ -48,6 +48,7 @@ This repository contains my daily coding practice solutions.
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
@@ -99,6 +100,7 @@ This repository contains my daily coding practice solutions.
 | [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1108-defanging-an-ip-address) |
 ## Bit Manipulation
@@ -107,6 +109,7 @@ This repository contains my daily coding practice solutions.
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
