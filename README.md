@@ -83,16 +83,19 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -216,4 +219,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
