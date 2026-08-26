@@ -27,6 +27,7 @@ This repository contains my daily coding practice solutions.
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1470-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
