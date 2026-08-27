@@ -19,6 +19,7 @@ This repository contains my daily coding practice solutions.
 | [0228-summary-ranges](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
@@ -160,6 +161,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
