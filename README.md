@@ -53,6 +53,7 @@ This repository contains my daily coding practice solutions.
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
+| [0171-excel-sheet-column-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -109,6 +110,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
