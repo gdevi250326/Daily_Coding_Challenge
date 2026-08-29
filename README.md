@@ -51,6 +51,7 @@ This repository contains my daily coding practice solutions.
 | [0062-unique-paths](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
@@ -94,6 +95,7 @@ This repository contains my daily coding practice solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
@@ -239,4 +241,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
