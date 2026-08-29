@@ -30,6 +30,7 @@ This repository contains my daily coding practice solutions.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -142,6 +143,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
