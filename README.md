@@ -57,6 +57,7 @@ This repository contains my daily coding practice solutions.
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
@@ -101,6 +102,7 @@ This repository contains my daily coding practice solutions.
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
 ## Binary Tree
 |  |
 | ------- |
