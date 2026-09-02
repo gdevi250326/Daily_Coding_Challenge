@@ -16,6 +16,7 @@ This repository contains my daily coding practice solutions.
 | [0066-plus-one](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
@@ -149,6 +150,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
@@ -246,6 +248,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 ## Newton's Method
 |  |
 | ------- |
@@ -254,4 +257,12 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
