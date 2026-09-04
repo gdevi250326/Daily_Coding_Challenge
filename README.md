@@ -71,6 +71,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repository contains my daily coding practice solutions.
 | [0796-rotate-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1108-defanging-an-ip-address) |
+| [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ This repository contains my daily coding practice solutions.
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
 ## Counting Sort
 |  |
 | ------- |
