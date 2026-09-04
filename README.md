@@ -27,6 +27,7 @@ This repository contains my daily coding practice solutions.
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1470-shuffle-the-array) |
@@ -105,6 +106,7 @@ This repository contains my daily coding practice solutions.
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -271,4 +273,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
