@@ -297,4 +297,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
