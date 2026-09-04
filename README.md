@@ -47,6 +47,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ This repository contains my daily coding practice solutions.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
@@ -78,6 +80,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
