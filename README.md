@@ -103,6 +103,7 @@ This repository contains my daily coding practice solutions.
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
 ## Binary Tree
 |  |
@@ -266,4 +267,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
