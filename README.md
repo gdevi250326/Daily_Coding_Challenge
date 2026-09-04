@@ -65,6 +65,7 @@ This repository contains my daily coding practice solutions.
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
 | [1137-n-th-tribonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1486-xor-operation-in-an-array) |
+| [2235-add-two-integers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gdevi250326/LeedCode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
