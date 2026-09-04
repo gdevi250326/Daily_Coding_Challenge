@@ -59,6 +59,7 @@ This repository contains my daily coding practice solutions.
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
@@ -233,6 +234,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
