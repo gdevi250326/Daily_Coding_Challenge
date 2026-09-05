@@ -104,6 +104,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
@@ -121,6 +122,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
 ## String
 |  |
@@ -271,6 +273,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
 ## Newton's Method
 |  |
@@ -301,4 +304,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0610-triangle-judgement) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
