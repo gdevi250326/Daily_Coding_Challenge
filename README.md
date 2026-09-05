@@ -25,6 +25,7 @@ This repository contains my daily coding practice solutions.
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
@@ -41,6 +42,7 @@ This repository contains my daily coding practice solutions.
 | [0056-merge-intervals](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -185,6 +187,7 @@ This repository contains my daily coding practice solutions.
 | [0141-linked-list-cycle](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 ## Counting
 |  |
@@ -214,6 +217,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
 |  |
@@ -308,4 +312,12 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
