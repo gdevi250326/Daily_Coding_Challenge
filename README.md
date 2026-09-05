@@ -307,6 +307,7 @@ This repository contains my daily coding practice solutions.
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0610-triangle-judgement) |
 ## DP on Trees
 |  |
