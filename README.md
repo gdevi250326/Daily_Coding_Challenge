@@ -108,6 +108,7 @@ This repository contains my daily coding practice solutions.
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repository contains my daily coding practice solutions.
 | [0099-recover-binary-search-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0099-recover-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 ## String
 |  |
 | ------- |
@@ -279,6 +281,7 @@ This repository contains my daily coding practice solutions.
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 ## Newton's Method
 |  |
 | ------- |
@@ -292,6 +295,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 ## Union-Find
 |  |
 | ------- |
