@@ -67,6 +67,7 @@ This repository contains my daily coding practice solutions.
 | [0292-nim-game](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
@@ -99,6 +100,7 @@ This repository contains my daily coding practice solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0552-student-attendance-record-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0552-student-attendance-record-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
@@ -106,6 +108,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0089-gray-code](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0357-count-numbers-with-unique-digits) |
 ## Tree
 |  |
 | ------- |
