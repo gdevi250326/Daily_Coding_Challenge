@@ -10,6 +10,7 @@ This repository contains my daily coding practice solutions.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0056-merge-intervals) |
@@ -135,6 +136,7 @@ This repository contains my daily coding practice solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0171-excel-sheet-column-number) |
@@ -334,4 +336,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
