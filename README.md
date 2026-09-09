@@ -37,6 +37,7 @@ This repository contains my daily coding practice solutions.
 | [1480-running-sum-of-1d-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +164,7 @@ This repository contains my daily coding practice solutions.
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
