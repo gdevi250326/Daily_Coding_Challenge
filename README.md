@@ -93,6 +93,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
@@ -135,6 +136,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
