@@ -26,6 +26,7 @@ This repository contains my daily coding practice solutions.
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
@@ -45,6 +46,7 @@ This repository contains my daily coding practice solutions.
 | [0056-merge-intervals](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -338,6 +340,7 @@ This repository contains my daily coding practice solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Trie
 |  |
