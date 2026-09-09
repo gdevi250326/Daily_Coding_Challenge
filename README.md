@@ -40,6 +40,7 @@ This repository contains my daily coding practice solutions.
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repository contains my daily coding practice solutions.
 | [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gdevi250326/LeedCode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -205,6 +208,7 @@ This repository contains my daily coding practice solutions.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
