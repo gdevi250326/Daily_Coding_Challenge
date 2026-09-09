@@ -31,6 +31,7 @@ This repository contains my daily coding practice solutions.
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ This repository contains my daily coding practice solutions.
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository contains my daily coding practice solutions.
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +214,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
