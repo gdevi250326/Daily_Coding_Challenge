@@ -18,6 +18,7 @@ This repository contains my daily coding practice solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0275-h-index-ii) |
@@ -103,6 +104,7 @@ This repository contains my daily coding practice solutions.
 | [0095-unique-binary-search-trees-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0552-student-attendance-record-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0552-student-attendance-record-ii) |
@@ -190,6 +192,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
