@@ -89,6 +89,7 @@ This repository contains my daily coding practice solutions.
 | [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -167,6 +168,7 @@ This repository contains my daily coding practice solutions.
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -187,6 +189,7 @@ This repository contains my daily coding practice solutions.
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
@@ -236,6 +239,7 @@ This repository contains my daily coding practice solutions.
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
 ## Counting Sort
