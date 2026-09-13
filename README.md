@@ -161,6 +161,7 @@ This repository contains my daily coding practice solutions.
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0520-detect-capital](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0796-rotate-string) |
