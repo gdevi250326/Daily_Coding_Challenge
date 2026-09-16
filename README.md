@@ -32,6 +32,7 @@ This repository contains my daily coding practice solutions.
 | [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0766-toeplitz-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
@@ -213,6 +214,7 @@ This repository contains my daily coding practice solutions.
 | [0200-number-of-islands](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0766-toeplitz-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
