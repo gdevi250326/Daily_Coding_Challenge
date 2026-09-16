@@ -27,6 +27,7 @@ This repository contains my daily coding practice solutions.
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
