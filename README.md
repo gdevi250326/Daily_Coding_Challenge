@@ -28,6 +28,7 @@ This repository contains my daily coding practice solutions.
 | [0321-create-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -190,6 +191,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
