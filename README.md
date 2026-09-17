@@ -80,6 +80,7 @@ This repository contains my daily coding practice solutions.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
