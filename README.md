@@ -31,6 +31,7 @@ This repository contains my daily coding practice solutions.
 | [0491-non-decreasing-subsequences](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0766-toeplitz-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0766-toeplitz-matrix) |
@@ -54,6 +55,7 @@ This repository contains my daily coding practice solutions.
 | [0274-h-index](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -234,6 +236,7 @@ This repository contains my daily coding practice solutions.
 | [0290-word-pattern](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
 | [0491-non-decreasing-subsequences](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0491-non-decreasing-subsequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -243,6 +246,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0299-bulls-and-cows) |
+| [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
@@ -380,6 +384,7 @@ This repository contains my daily coding practice solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
 |  |
