@@ -139,6 +139,7 @@ This repository contains my daily coding practice solutions.
 | [0563-binary-tree-tilt](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -150,6 +151,7 @@ This repository contains my daily coding practice solutions.
 | [0300-longest-increasing-subsequence](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0441-arranging-coins) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
@@ -161,6 +163,7 @@ This repository contains my daily coding practice solutions.
 | [0563-binary-tree-tilt](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String
 |  |
