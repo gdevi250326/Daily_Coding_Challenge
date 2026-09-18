@@ -35,6 +35,7 @@ This repository contains my daily coding practice solutions.
 | [0605-can-place-flowers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
@@ -234,6 +235,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0724-find-pivot-index](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
