@@ -41,6 +41,7 @@ This repository contains my daily coding practice solutions.
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -60,6 +61,7 @@ This repository contains my daily coding practice solutions.
 | [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
@@ -268,6 +270,7 @@ This repository contains my daily coding practice solutions.
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2000-reverse-prefix-of-word) |
