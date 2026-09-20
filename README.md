@@ -43,6 +43,7 @@ This repository contains my daily coding practice solutions.
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
