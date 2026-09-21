@@ -53,6 +53,7 @@ This repository contains my daily coding practice solutions.
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ This repository contains my daily coding practice solutions.
 | [1486-xor-operation-in-an-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gdevi250326/LeedCode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ This repository contains my daily coding practice solutions.
 | [0509-fibonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0509-fibonacci-number) |
 | [0552-student-attendance-record-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0552-student-attendance-record-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1137-n-th-tribonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
