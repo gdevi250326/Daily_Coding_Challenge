@@ -54,6 +54,7 @@ This repository contains my daily coding practice solutions.
 | [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3525-find-x-value-of-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repository contains my daily coding practice solutions.
 | [2235-add-two-integers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gdevi250326/LeedCode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3525-find-x-value-of-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -414,4 +416,8 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
