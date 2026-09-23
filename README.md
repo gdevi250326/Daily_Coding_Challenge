@@ -76,6 +76,7 @@ This repository contains my daily coding practice solutions.
 | [0203-remove-linked-list-elements](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +281,7 @@ This repository contains my daily coding practice solutions.
 | [0680-valid-palindrome-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0922-sort-array-by-parity-ii) |
