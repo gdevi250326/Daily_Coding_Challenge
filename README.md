@@ -51,6 +51,7 @@ This repository contains my daily coding practice solutions.
 | [1470-shuffle-the-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -169,6 +170,7 @@ This repository contains my daily coding practice solutions.
 | [0700-search-in-a-binary-search-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@ This repository contains my daily coding practice solutions.
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +269,7 @@ This repository contains my daily coding practice solutions.
 | [0804-unique-morse-code-words](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -416,6 +420,7 @@ This repository contains my daily coding practice solutions.
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
