@@ -152,6 +152,7 @@ This repository contains my daily coding practice solutions.
 | [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ This repository contains my daily coding practice solutions.
 | [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0872-leaf-similar-trees) |
 ## String
 |  |
 | ------- |
@@ -363,6 +365,7 @@ This repository contains my daily coding practice solutions.
 | [0617-merge-two-binary-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0623-add-one-row-to-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0872-leaf-similar-trees) |
 ## Newton's Method
 |  |
 | ------- |
