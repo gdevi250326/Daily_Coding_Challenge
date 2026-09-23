@@ -41,6 +41,7 @@ This repository contains my daily coding practice solutions.
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0941-valid-mountain-array) |
@@ -97,6 +98,7 @@ This repository contains my daily coding practice solutions.
 | [0509-fibonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0883-projection-area-of-3d-shapes) |
 | [1137-n-th-tribonacci-number](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/2235-add-two-integers) |
@@ -242,6 +244,7 @@ This repository contains my daily coding practice solutions.
 | [0304-range-sum-query-2d-immutable](https://github.com/gdevi250326/LeedCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0766-toeplitz-matrix](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0832-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0883-projection-area-of-3d-shapes) |
 | [1572-matrix-diagonal-sum](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -353,6 +356,7 @@ This repository contains my daily coding practice solutions.
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gdevi250326/Daily_Coding_Challenge/tree/master/0883-projection-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
